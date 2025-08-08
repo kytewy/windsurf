@@ -1,6 +1,6 @@
 # AI-Powered Development Environment
 
-This project is set up following **Sahar's AI Coding Methodology** for optimal AI-assisted development with Windsurf.
+This project is set up following **Sahar's AI Coding Methodology** for optimal AI-assisted development with Windsurf: https://www.aitidbits.ai/p/sahar-ai-coding
 
 ## 📋 Project Structure
 
@@ -21,6 +21,7 @@ This project is set up following **Sahar's AI Coding Methodology** for optimal A
 ## 🚀 Getting Started
 
 ### 1. Customize Your Project
+
 1. **Fill out `prd.md`** with your specific project details
 2. **Update `project-docs/`** files with your requirements:
    - Define your app flows in `app_flow.md`
@@ -29,13 +30,17 @@ This project is set up following **Sahar's AI Coding Methodology** for optimal A
    - Plan your implementation in `implementation_plan.md`
 
 ### 2. Configure Windsurf Rules
+
 The `windsurf-rules/` directory contains modular rule files that guide your AI agent:
+
 - **`project-guidelines.md`**: Core development practices
 - **`documentation-standards.md`**: Documentation requirements
 - **`tech-stack-guidelines.md`**: Technology-specific guidelines
 
 ### 3. Start Development
+
 With this foundation, your AI agent will:
+
 - ✅ Always reference your documentation before generating code
 - ✅ Follow your specific coding standards and conventions
 - ✅ Implement features according to your planned architecture
@@ -73,4 +78,4 @@ This setup follows the **80% Planning, 20% Execution** methodology:
 
 ---
 
-*This development environment is designed to maximize the effectiveness of AI-assisted coding while maintaining high code quality and project organization.*
+_This development environment is designed to maximize the effectiveness of AI-assisted coding while maintaining high code quality and project organization._
